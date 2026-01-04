@@ -8,7 +8,7 @@
 [![License](https://img.shields.io/github/license/voidksa/WindowMagnet?style=for-the-badge&color=blue)](LICENSE)
 
 **A modern, powerful window management tool for Windows.**
-Magnetize your windows, snap them to perfection, and boost your productivity.
+Link windows together to create seamless workflows. Window Magnet allows you to "bond" a child window to a parent window, ensuring they move, minimize, and restore as a single unit. Perfect for multi-tasking, keeping reference material nearby, or managing complex window layouts.
 
 <br>
 <img src="screenshots/app.png" alt="Window Magnet Screenshot" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);"/>
@@ -20,9 +20,11 @@ Magnetize your windows, snap them to perfection, and boost your productivity.
 
 ## 🚀 Features
 
-- **Window Snapping**: Easily snap windows to edges and corners.
-- **Always on Top**: Pin windows to keep them visible.
-- **Customizable**: Dark/Light theme support matching your system.
+- **Window Bonding**: Select a "Master" and a "Child" window to link them together.
+- **Synchronized Movement**: Moving the Master window automatically moves the Child window, maintaining their relative position.
+- **State Synchronization**: Minimizing or restoring the Master window automatically applies the same action to the Child window.
+- **Multiple Bonds**: Create multiple Master-Child pairs to organize your entire desktop.
+- **Modern UI**: Sleek design with adaptive Dark/Light theme support matching your system.
 - **Auto-Update**: Stay up-to-date with the latest features automatically.
 
 ## 📥 Installation
