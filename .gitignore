@@ -1,9 +1,9 @@
-.gitignore
 # Build artifacts
 bin/
 obj/
 .vs/
 publish/
+.gitignore
 
 # User-specific files
 *.user
@@ -28,3 +28,5 @@ WindowMagnet.zip
 # Release binaries (do not track)
 WindowMagnet.exe
 WindowMagnetSetup.exe
+.gitignore
+.gitignore
