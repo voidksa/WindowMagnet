@@ -5,7 +5,7 @@
 # Window Magnet
 
 [![Download](https://img.shields.io/github/v/release/voidksa/WindowMagnet?label=Download&style=for-the-badge&color=2CB67D&logo=windows)](https://github.com/voidksa/WindowMagnet/releases/latest)
-[![License](https://img.shields.io/github/license/voidksa/WindowMagnet?style=for-the-badge&color=blue)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
 **A modern, powerful window management tool for Windows.**
 Link windows together to create seamless workflows. Window Magnet allows you to "bond" a child window to a parent window, ensuring they move, minimize, and restore as a single unit. Perfect for multi-tasking, keeping reference material nearby, or managing complex window layouts.
